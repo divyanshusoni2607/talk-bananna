@@ -1,6 +1,6 @@
 # MinionSpeaks
 
-[Live](https://dcs-minion-speaks.netlify.app/)
+[Live](https://project-talk-like-minions.netlify.app/)
 
 ## See how Minions speak their secret and funny language
 
